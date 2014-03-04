@@ -1,0 +1,8 @@
+.main {
+  margin: 10px;
+  background-color: white;
+  button.submit {
+    background-color: red;
+  }
+  @debug(type-of(red));
+}
